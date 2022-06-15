@@ -1,0 +1,22 @@
+{
+    "home": "Acceuil",
+    "abouts": "À PROPOS",
+    "institutions": "ÉTABLISSEMENTS",
+    "students": "ÉTUDIANTS",
+
+    "page": {
+        "welcome": {
+            "home": "Votre voyage",
+            "home1": "commence ici !"
+        }
+     },
+     "parag": {
+        "description": "Avec Iesaw International, vous pouvez commencer.",
+        "description1": "vos études supérieures, votre voyage et votre déverrouillage",
+        "description2":  "un monde d'opportunités.." ,
+        "description3":  "Postuler Étudiant" ,
+        "description4":  "Pourquoi étudier avec nous ?" ,
+        "description5":  "Le soutien que nous offrons va bien au-delà de la façon dont nous pouvons vous aider en classe et dans les futurs amphithéâtres. Avec des tuteurs expérimentés et des classes de petite taille, vous aurez l'espace pour développer votre confiance tout en renforçant les compétences académiques et linguistiques en anglais de niveau universitaire." 
+
+       }
+}

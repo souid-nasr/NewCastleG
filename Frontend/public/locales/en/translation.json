@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "abouts": "ABOUTS",
+  "institutions": "INSTITUTIONS",
+  "students": "STUDENTS",
+
+  "page": {
+     "welcome": {
+         "home": "Your Journey",
+        "home1": "Starts Here!"
+     }
+   },
+
+  "parag": {
+    "description": "With Iesaw International, you can begin.",
+    "description1": "your higher education,journey and unlock",
+    "description2":  "a world of opportunity.",
+    "description3":  "Apply Student.",
+    "description4":  "Why study with us?",
+    "description5":  "The support that we offer goes far beyond how we can help you in the classroom and future lecture halls. With experienced tutors and small class sizes, you will have the space to develop your confidence while strengthening university-level academic and English language skills ."
+  }
+  }

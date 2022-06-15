@@ -1,0 +1,175 @@
+
+{
+  "Header": {
+    "title": "We are a Landing Page",
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+  },
+  "About": {
+    "paragraph": "We Offer Integrated Solutions And Services To Student All over the world.",
+    "paragraph1": "Offer letter from universities, colleges, and language school.",
+    "paragraph2": "Admission form language school and university.",
+    "paragraph3": "Visa application advice.",
+    "paragraph4": "Helping students to open a bank account.",
+    "paragraph5": "Health insurance.",
+    "paragraph6": "Students accommodation.",
+    "paragraph7": "Airport Services.",
+    "paragraph8": "Follow up services during your study.",
+
+    "Why": [
+      "Courses to choose from globally",
+      "Universities, colleges and schools"
+    ],
+    "Why2": [
+      "Recruitment Partners across the globe",
+      "In the top 3% of education providers globally"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Art and Design",
+      "largeImage": "assets/Art-Design.jpg",
+      "smallImage": "assets/Art-Design.jpg",
+      "degrees": "44 degrees "
+    },
+    {
+      "title": "Business",
+      "largeImage": "assets/business-image.jpg",
+      "smallImage": "assets/business-image.jpg",
+      "degrees": "53 degrees "
+    },
+    {
+      "title": "Computing",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg",
+      "degrees": "30 degrees "
+    },
+    {
+      "title": "Engineering",
+      "largeImage": "assets/Engenieuring.jpg",
+      "smallImage": "assets/Engenieuring.jpg",
+      "degrees": "22 degrees "
+    },
+    {
+      "title": "Law",
+      "largeImage": "assets/law-img.jpg",
+      "smallImage": "assets/law-img.jpg",
+      "degrees": "55 degrees "
+    },
+
+    {
+      "title": "Media",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg",
+      "degrees": "62 degrees "
+
+    },
+    
+    {
+      "title": "Nursing",
+      "largeImage": "assets/Nursing.jpg",
+      "smallImage": "assets/Nursing.jpg",
+      "degrees": "14 degrees "
+    },
+    
+    {
+      "title": "Psychology",
+      "largeImage": "assets/Psychology.png",
+      "smallImage": "assets/Psychology.png",
+      "degrees": "43 degrees "
+    },
+    {
+      "title": "Social Sciences",
+      "largeImage": "assets/social-sciences.jpeg",
+      "smallImage": "assets/social-sciences.jpeg",
+      "degrees": "28 degrees "
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-question-circle",
+      "name": "I am thinking about it"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "I am still exploring"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "I am good to apply"
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "name": "I’ve received an offer"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"I would recommend UGIC because it is based on the main University of Greenwich campus, a cosmopolitan university.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"I have a lot of international friends here at BUIC, and I’ve learnt so much from them. There is always a lot to do together both on and off-campus.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"I think one of the main reasons the IIM (pre-masters) has been so helpful is because the staff are so supportive and are always able to help me.\"",
+      "name": "John Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "United Kingdom ",
+    "phone": " 0044-191-6497495",
+    "email": "info@iesaw.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+
+  "Features": [
+    {
+      "icon": "fa fa-life-ring",
+      "title": "Football & English",
+      "text": "More"
+    },
+    {
+      "icon": "fa fa-university",
+      "title": "Banking",
+      "text": "More"
+    },
+    {
+      "icon": "fa fa-adjust",
+      "title": "Oil and Gas",
+      "text": "More"
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "CONTINUATION",
+      "text": "More"
+    }
+  ]
+}
